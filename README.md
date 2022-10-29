@@ -1,10 +1,17 @@
 # ishi
 a simple anime downloader from nyaa.si written in bash
-# Features
+## Installing Pre-requisites
+### Arch Linux
+sudo pacman -S transmission-daemon
+### Debian & Ubuntu
+sudo apt install transmission-daemon
+### Fedora
+sudo dnf install transmission-daemon
+## Features
 - Locally stores progress
 - Download using transmission
-# Quickstart
-## Usage
+## Quickstart
+### Usage
 in the file, change the folder directory and the download directoty to your liking
 and add the anime entries to $HOME/folder/list
 for example
@@ -17,5 +24,5 @@ Akiba Meido Sensou#12
 Spy x Family Cour 2#13
 ```
 add the total of epsides for each entry, doing so will remove the entry if the episode treshold is reach.
-# TODO
+## TODO
 - Check the anime episode total from a database
