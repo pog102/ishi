@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 ani_folder=$HOME/nyaa #folder
 download_dir="$HOME/anime/" #download directory
 
