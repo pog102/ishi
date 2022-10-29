@@ -1,5 +1,4 @@
-# ishi
-a simple anime downloader from nyaa.si written in bash
+# ishi - a simple anime downloader for nyaa.si
 ## Installing Pre-requisites
 ### Arch Linux
 sudo pacman -S transmission-daemon
