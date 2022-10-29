@@ -21,7 +21,6 @@ Chainsaw Man#12
 Mob Psycho 100 III#24
 BLEACH Sennen Kessen-hen#24
 Akiba Meido Sensou#12
-Spy x Family Cour 2#13
 ```
 add the total of epsides for each entry, doing so will remove the entry if the episode treshold is reach.
 ## TODO
