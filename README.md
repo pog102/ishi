@@ -13,7 +13,7 @@ sudo dnf install transmission-daemon
 ## Quickstart
 ### Usage
 in the file, change the folder directory and the download directoty to your liking
-and add the anime entries to $HOME/folder/list
+and add the anime entries to $HOME/folder/subscriptions
 for example
 ```
 Urusei Yatsura (2022)#12
