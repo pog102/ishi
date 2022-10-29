@@ -1,6 +1,6 @@
 #!/bin/bash
-ani_folder=$HOME/nyaa #folder
-download_dir="$HOME/anime/" #download directory
+ani_folder=$HOME/nyaa #folder ##change here
+download_dir="$HOME/anime/" #download directory ##change here
 
 ani_list="$ani_folder/subscriptions" #anime list
 progress="$ani_folder/progress" #anime progress directory
